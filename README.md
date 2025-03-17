@@ -23,7 +23,7 @@ The API uses Express middleware for JSON parsing and includes proper error handl
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/library-api.git
+git clone https://github.com/bitvalo34/library-api
 
 cd library-api
 
